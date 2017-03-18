@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buttobi", "buttobi.csproj", "{09319BE9-BC55-35AA-294F-0D9F0399B9E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buttobi.Editor", "buttobi.Editor.csproj", "{4880D348-8150-8275-9B0E-563FE5C0D790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{09319BE9-BC55-35AA-294F-0D9F0399B9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09319BE9-BC55-35AA-294F-0D9F0399B9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09319BE9-BC55-35AA-294F-0D9F0399B9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4880D348-8150-8275-9B0E-563FE5C0D790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4880D348-8150-8275-9B0E-563FE5C0D790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4880D348-8150-8275-9B0E-563FE5C0D790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4880D348-8150-8275-9B0E-563FE5C0D790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
